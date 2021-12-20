@@ -8,4 +8,6 @@ import org.junit.runners.Suite;
 @Suite.SuiteClasses({CalculTest.class, FactureTest.class, IFactureTest.class})
 public class ProjetTestSuite {
 
+    // Comment for testing git update
+
 }
